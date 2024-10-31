@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Camila</h1>
+<h1 align="center">Hi, I'm Camila! 😄</h1>
 <h3 align="center">A passionate web design student</h3>
 
 - 📫 Send me an e-mail! **mariacamilapd20@gmail.com**
