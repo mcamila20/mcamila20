@@ -1,4 +1,4 @@
-<h1>Hi there! i'm Camila 👋😁</h1>
+<h1>Hi there! I'm Camila 👋😁</h1>
 
 <p>👩‍💻 I'm a NAIT Digital Media and IT student specializing in Web Design and Development. Currently based in Edmonton, Alberta, I'm navigating new tech adventures with a passion for creative user-friendly and problem-solving websites.</p>
 <p>✏ I'm always trying to learn something new and when I'm not coding, you'll probably find me taking a walk or reading a good book.</p>
