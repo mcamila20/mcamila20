@@ -1,6 +1,7 @@
 <h1>Hi there! My name is Camila 😁</h1>
 
-<p>I am a current NAIT student taking the Web Design and Development Program</p>
+<p>👩‍💻 I'm a NAIT Digital Media and IT student specializing in Web Design and Development. Currently based in Edmonton, Alberta, I'm navigating new tech adventures with a passion for creative user-friendly and problem-solving websites.</p>
+<p>✏ I'm always trying to learn something new and when I'm not coding, you'll probably find me taking a walk or reading a good book.</p>
 
 ###
 <h2>🌎 Languages and Tools I Use</h2>
