@@ -1,9 +1,9 @@
-<h1 align="left">Hi there! My name is Camila.</h1>
+<h1>Hi there! My name is Camila.</h1>
 
 <p>I am a current NAIT student taking the Web Design and Development Program</p>
 
 ###
-
+<h2>Languages and Tools I Use</h2>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
   <img width="12" />
@@ -23,11 +23,10 @@
 </div>
 
 ###
-
+<h2>Where to find me:</h2>
 <div align="left">
-    <a href="mailto:mariacamilapd20@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-    <a href=""><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />  </a>
-    <a href="https://www.instagram.com/macami.20/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
+    <a target="_blank" href="mailto:mariacamilapd20@gmail.com" style="display: inline-block;"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
+    <a target="_blank" href="https://www.linkedin.com/in/maria-camila-pacheco-devia-ab1247301" style="display: inline-block;"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
+    <a target="_blank" href="https://www.facebook.com/Maria-Camila-Pacheco-100075339427144" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
+    <a target="_blank" href="https://www.instagram.com/macami.20/" style="display: inline-block;"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/></a>
 </div>
-
-###
