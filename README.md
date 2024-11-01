@@ -1,4 +1,6 @@
-<h2 align="left">Hi there! My name is Camila. I am a current NAIT student taking the Web Design and Development Program</h2>
+<h1 align="left">Hi there! My name is Camila.</h1>
+
+<p>I am a current NAIT student taking the Web Design and Development Program</p>
 
 ###
 
